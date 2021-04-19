@@ -11,3 +11,9 @@ https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/versehop
  
  Chemical Depot 6
  https://www.doomworld.com/idgames/themes/terrywads/chemdept
+ 
+ https://www.doomworld.com/idgames/levels/doom2/m-o/nowhimps
+ 
+ SOD:
+ https://www.doomworld.com/idgames/themes/wolf3d/sod
+ 
